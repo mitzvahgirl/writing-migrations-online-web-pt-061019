@@ -1,8 +1,9 @@
 ChangeDatatypeForBirthdate
   def change_column :
    ef change
-    change_column :grade do |t|
-      t.string :birthdate
+    change_column  do |t|
+      t.string 
+      
     end
   end
 end
